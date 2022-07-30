@@ -19,3 +19,4 @@ These algorithms were shortlisted based on their previous result, easy-to-use co
 * Python:- It is used to write code for all the ML algorithms for getting the accuracy the achieved.
 
 
+> For more information kindly refer to the attached PPT.
