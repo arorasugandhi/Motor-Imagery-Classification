@@ -13,3 +13,9 @@ Brain-Computer Interface is a system that allows users to interact with the comp
 For this project I did a wide literature review and shortlisted three algorithms namely Support Vector Machine(SVM), Random Forest Classifier, Gradient Boost Classifier.
 These algorithms were shortlisted based on their previous result, easy-to-use code, less inference time.
 
+## Languages Used
+
+* MATLAB:- It is used to extract the useful values from the EEG dataset and the combine the datased and write it to a CSV file.
+* Python:- It is used to write code for all the ML algorithms for getting the accuracy the achieved.
+
+
